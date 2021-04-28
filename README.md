@@ -5,7 +5,7 @@ During this project, I helped Accountability Accounting analyze and classify cry
 The data used in this project was not perfect, so I had to process it so that it could be used in a machine learning model. I decided to use an unsupervised machine learning model, because there is no known output. To group the cryptocurrencies, we decided on a clustering algorithm. In this deliverable we used data visualizations to share our findings with the board.
 
 To analyze the data we stuck to a four step process:
-1: Preprocessing the Data for PCA
-2: Reducing Data Dimensions Using PCA
-3: Clustering Cryptocurrencies Using K-means
-4: Visualizing Cryptocurrencies Results
+- Preprocessing the Data for PCA
+- Reducing Data Dimensions Using PCA
+- Clustering Cryptocurrencies Using K-means
+- Visualizing Cryptocurrencies Results
