@@ -9,3 +9,5 @@ To analyze the data we stuck to a four step process:
 - Reducing Data Dimensions Using PCA
 - Clustering Cryptocurrencies Using K-means
 - Visualizing Cryptocurrencies Results
+
+The overall findings of each of these methods are included in the "crypto_currencies" jupyter notebook file.
