@@ -24,4 +24,11 @@ I performed principal component analysis to determine the 3 components that have
 
 ![DFwithClustersandClasses](Resources/DFwithClustersandClasses.PNG)
 
+## Visualizing Cryptocurrencies Results
+
+### 3-D Scatter Plot with Clusters
+This chart highlights the different clusters, showing the groups created by the 3 principal components. Each class is represented by a different color and marker, enabling quick identification on the chart.
+
+![3DScatter](Resources/3DScatter.PNG)
+
 The complete findings of each of these methods are included in the "crypto_clustering" jupyter notebook file attached above.
