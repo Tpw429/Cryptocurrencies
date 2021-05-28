@@ -16,6 +16,12 @@ After removing the cryptocurrencies that do not meet the above criteria, and any
 
 ![InitialCryptoDF](Resources/InitialCryptoDF.PNG)
 
+## Principal Component Analysis (PCA) and clustering cryptocurrencies Using K-Means
+I performed principal component analysis to determine the 3 components that have the greatest impact for grouping the data into clusters. The 3 components can be found in the new DataFrame seen below. To determine the optimal number of clusters for the cryptocurrencies, I created an elbow curve chart to visualize the different values for K, used in the K-means clustering algorithm. The chart below shows that the optimal number of clusters is 4, as the 'elbow' is found at k=4. The 4 clusters are described in the 'Class' column, described as classes 0, 1, 2 and 3.
+
+![Elbow](Resources/Elbow.PNG)
+
+
 ![DFwithClustersandClasses](Resources/DFwithClustersandClasses.PNG)
 
 The complete findings of each of these methods are included in the "crypto_clustering" jupyter notebook file attached above.
