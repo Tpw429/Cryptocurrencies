@@ -16,4 +16,6 @@ After removing the cryptocurrencies that do not meet the above criteria, and any
 
 ![InitialCryptoDF](Resources/InitialCryptoDF.PNG)
 
+![DFwithClustersandClasses](Resources/DFwithClustersandClasses.PNG)
+
 The complete findings of each of these methods are included in the "crypto_clustering" jupyter notebook file attached above.
