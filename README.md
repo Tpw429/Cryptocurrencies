@@ -14,6 +14,6 @@ The cryptocurrency is currently trading
 
 After removing the cryptocurrencies that do not meet the above criteria, and any unnecessary columns, I created the below DataFrame to hold the clean dataset. There are 532 cryptocurrencies that currently fit my clients investment criteria.
 
-
+![InitialCryptoDF](Resources/InitialCryptoDF.PNG)
 
 The complete findings of each of these methods are included in the "crypto_clustering" jupyter notebook file attached above.
